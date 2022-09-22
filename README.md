@@ -1,0 +1,2 @@
+# WebApplicationDotNetCore
+ WebApplicationCore1

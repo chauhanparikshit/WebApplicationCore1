@@ -1,0 +1,318 @@
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.exe
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.deps.json
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.runtimeconfig.json
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.runtimeconfig.dev.json
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.pdb
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.Views.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.Views.pdb
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csproj.AssemblyReference.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.AssemblyInfoInputs.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.AssemblyInfo.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csproj.CoreCompileInputs.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorAssemblyInfo.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorAssemblyInfo.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationCore1.StaticWebAssets.Manifest.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationCore1.StaticWebAssets.xml
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationCore1.styles.css
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.TagHelpers.input.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.TagHelpers.output.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorCoreGenerate.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Create.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Delete.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Edit.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorTargetAssemblyInfo.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorTargetAssemblyInfo.cs
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.Views.pdb
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csproj.CopyComplete
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.dll
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.pdb
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.genruntimeconfig.cache
+C:\Users\consultant.parikshit\source\repos\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.exe
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.deps.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.runtimeconfig.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.runtimeconfig.dev.json
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.Views.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\WebApplicationCore1.Views.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.AssemblyInfoInputs.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.AssemblyInfo.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csproj.CoreCompileInputs.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.MvcApplicationPartsAssemblyInfo.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorAssemblyInfo.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorAssemblyInfo.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.TagHelpers.input.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.TagHelpers.output.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorCoreGenerate.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Create.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Delete.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Edit.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorTargetAssemblyInfo.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.RazorTargetAssemblyInfo.cs
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.Views.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csproj.CopyComplete
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationCore1.StaticWebAssets.Manifest.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationCore1.StaticWebAssets.xml
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.dll
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.pdb
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.genruntimeconfig.cache
+D:\Parikshit\.net\.net Core\Core Development\WebApplicationCore1\obj\Debug\netcoreapp3.1\WebApplicationCore1.csprojAssemblyReference.cache
